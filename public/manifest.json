@@ -1,0 +1,16 @@
+{
+  "name": "Human Filter",
+  "short_name": "Human Filter",
+  "description": "Make LinkedIn drafts sound human.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f2ef",
+  "theme_color": "#0A66C2",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
